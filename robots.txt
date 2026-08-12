@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /$
+Allow: /index.html
+Allow: /xray.html
+Allow: /profile.html
+Disallow: /work.html
+Disallow: /console-
+Disallow: /data-
